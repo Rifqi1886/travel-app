@@ -1,6 +1,6 @@
-# airplane
+# Airplane Travel Apps
 
-A new Flutter project.
+A Flutter Projects builds with Material UI, Flutter BLoC for state Management, and Firebase for the DBMS
 
 ## Getting Started
 
