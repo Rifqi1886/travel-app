@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879365715471",
+    "project_id": "airplane-baefc",
+    "storage_bucket": "airplane-baefc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879365715471:android:c2463f198a3ebf8422157a",
+        "android_client_info": {
+          "package_name": "com.rifqi.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879365715471-msul47p66vr7v3vjqr7tt7o5tf89rhif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkCULe0PXK-p7dUIXKosHKshj9ZOWYQzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879365715471-msul47p66vr7v3vjqr7tt7o5tf89rhif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
